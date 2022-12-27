@@ -2,7 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - The motivation behind the Prework study guide was to get a sense of barings of how websites are initially composed and further developed. 
 - I had to analyze, comprehend, and execute every layer necessary to run a fully functioning html-based website. Not to imply html was the only language used on the website - I learned and used CSS, JavaScript, Git, and VS (code editing) as well.   
